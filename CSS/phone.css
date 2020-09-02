@@ -1,0 +1,32 @@
+/* body{
+    background-color: black;
+} */
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+
+/* Home */
+#home{
+    height: 280px;
+
+}
+#home::before{
+    height: 400px;
+}
+
+
+
+/* Services */
+#services{
+    flex-direction: column;
+}
+
+/* Clients */
+#clients{
+    overflow: hidden;
+}
+/* Contact */
+
+/* footer */
